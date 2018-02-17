@@ -384,7 +384,8 @@ def main():
         RPS()
     if game == "3":
         ml()
-        
-
-if 1 == 1:
-    main()
+    
+    
+    
+    
+main()
